@@ -1,7 +1,9 @@
 Ryan Grantham
 
 -Data Viz and Analysis
+
 -Carthage College 2025
+
 -Student Athlete
 
 
