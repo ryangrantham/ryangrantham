@@ -1,10 +1,8 @@
-Ryan Grantham
+Data Viz and Analysis
 
--Data Viz and Analysis
+Carthage College 2025
 
--Carthage College 2025
-
--Student Athlete
+Student Athlete
 
 
 
