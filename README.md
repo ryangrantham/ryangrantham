@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ryangrantham
-- 👀 I’m interested in data analysis and visualization
-- 🌱 I’m currently learning data science at Carthage College
-- 💞️ I’m looking to collaborate on data viz projects
-- 📫 How to reach me email ryangrantham97@gmail.com
-- ⚡ Fun fact: I play basketball at Carthage College
+Ryan Grantham
+
+Data Viz and Analysis
+Carthage College 2025
+Student Athlete
+
+
 
 <!---
 ryangrantham/ryangrantham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
